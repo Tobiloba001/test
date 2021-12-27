@@ -1,0 +1,6 @@
+https://krozo.ibthemespro.com/home-light
+white = #F7F9FB
+lightest blue = #8FC1E3
+lighter blue = #5085A5
+lightest blue = #31708E
+army camo green = #687864
